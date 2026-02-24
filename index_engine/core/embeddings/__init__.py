@@ -1,0 +1,1 @@
+# Embeddings submodule for core
